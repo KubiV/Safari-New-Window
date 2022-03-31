@@ -11,3 +11,5 @@ tell application "Safari"
 end tell
 
 ```
+
+In addition you can use a red Safari icons to give this app different aesthetics.
