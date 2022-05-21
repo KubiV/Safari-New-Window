@@ -3,4 +3,13 @@
 
 By clicking this app, created using Apple Script Editor, you automatically open new Safari window. Great in combination with Siri Shortcuts, where you can make app open using a keyboard shortcut.
 
+App is using this siple code:
+```
+tell application "Safari"
+	make new document
+	activate
+end tell
 
+```
+
+In addition you can use a red Safari icons to give this app different aesthetics.
